@@ -17,6 +17,10 @@ module.exports = {
         secondary: {
           DEFAULT: '#534402',
           dark: '#423502'
+        },
+        ghost: {
+          DEFAULT: '#838383',
+          dark: '#393939'
         }
       },
     },
